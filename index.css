@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top-container{
+    background-color: rgb(92, 0, 241);
+    color: white;
+
+}
+h1{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+#input{
+    padding: 35px 1px;
+    border: 2px solid white;
+    background-color: rgb(92, 0, 241);
+    border-radius: 4px;
+    font-size:60px;
+    width: 130px;
+    height: 100px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#btn{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px 30px;
+    border-radius: 4px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    font-family:  ;
+}
+
